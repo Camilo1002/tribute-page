@@ -1,0 +1,9 @@
+body{
+  text-align: center;
+  background: #eee;
+}
+
+#image{
+  max-width: 100%;
+  height: auto;
+}
