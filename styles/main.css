@@ -1,9 +1,42 @@
 body{
   text-align: center;
-  background: #eee;
+  background: white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
 }
+
+main{
+  margin: 0 auto 0 auto ;
+  background: #eee;
+  margin: 0 150px;
+
+}
+
+
 
 #image{
   max-width: 100%;
   height: auto;
 }
+
+ul {
+  max-width: 550px;
+  margin: 0 auto 0 auto ;
+  text-align: left;
+ 
+ 
+}
+
+#tribute-info{
+  width: 60% ;
+  margin: 0 auto;
+  
+
+}
+
+#line {
+  width: 75%;
+  height: 2px;
+  background: black;
+}
+
